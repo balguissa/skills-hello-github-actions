@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions 101
+# Hello GitHub Actions
 
 _Create and run a GitHub Actions workflow._
 
